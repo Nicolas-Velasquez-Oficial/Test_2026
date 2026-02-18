@@ -1,2 +1,7 @@
-# Test_2026
-This is a test for business analytics class
+
+
+
+Repository
+Mariana
+Nicolas
+Version 2026
